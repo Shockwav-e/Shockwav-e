@@ -73,11 +73,32 @@ const shockwave = {
 </td>
 <td valign="top">
 
+**Databases**
+<br>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 **Editor**
 <br>
 <img src="https://img.shields.io/badge/VSCodium-2C2C32?style=for-the-badge&logo=vscodium&logoColor=CC0000" />
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+</td>
+<td valign="top">
+
+**Extras**
+<br>
+<img src="https://img.shields.io/badge/Clean%20Arch-1A1A1A?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20APIs-CC0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Realtime-000000?style=flat-square" />
 
 </td>
 </tr>
