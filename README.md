@@ -91,9 +91,7 @@ const shockwave = {
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**TourNeo**](https://ggtsonline.netlify.app/tourneo/) | Tournament platform — **Frontend by me, Backend by Leno** | `HTML • CSS • JavaScript` |
-| [**TourneyMaster**](https://tourneymaster.duckdns.org/) | Live brackets, scoring & dashboards | `Go • JS • HTML/CSS` |
-| **Dashboard** | Analytics & control panel for real-time ops | `Go • Python • JS` |
-| [**Dorion**](https://github.com/Shockwav-e/Dorion) | Tiny Discord client — themes, plugins, fast | `Rust • Tauri • TypeScript` |
+| [**TourneyMaster**](https://tourneymaster.duckdns.org/) | Tournament platform — live brackets, scoring, dashboards & analytics control panel | `Go • Python • JS • HTML/CSS` |
 
 ---
 
