@@ -27,7 +27,7 @@
 const shockwave = {
   role: "Desktop / Systems tinkerer",
   stack: ["Rust", "Tauri", "TypeScript"],
-  currently: "Polishing Dorion — tiny Discord client",
+  currently: "Building TourneyMaster + Dashboard",
   loves: ["clean UI", "low footprint", "fast startup"],
   moto: "Build small. Ship fast. Keep it sharp."
 }
