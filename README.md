@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:1A0000,100:4D0000&height=220&section=header&text=Shockwave&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20—%20Go%20%E2%80%A2%20Rust%20%E2%80%A2%20Python&descAlignY=68&descSize=15&stroke=330000&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:CC0000&height=220&section=header&text=Shockwave&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20—%20Go%20%E2%80%A2%20Rust%20%E2%80%A2%20Python&descAlignY=68&descSize=15" />
 
 <p align="center">
   <a href="https://github.com/Shockwav-e">
@@ -106,4 +106,4 @@ const shockwave = {
 
 <p align="center"><sub>⚡ Let's build something sharp — PRs and ideas always welcome</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D0000,50:1A0000,100:0A0A0A&height=120&section=footer&stroke=330000&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:0A0A0A&height=120&section=footer&reversal=false" />
