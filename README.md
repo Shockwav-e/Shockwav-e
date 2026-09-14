@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:CC0000&height=220&section=header&text=Shockwave&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20—%20Go%20%E2%80%A2%20Rust%20%E2%80%A2%20Python&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:1A0000,100:4D0000&height=220&section=header&text=Shockwave&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20—%20Go%20%E2%80%A2%20Rust%20%E2%80%A2%20Python&descAlignY=68&descSize=15&stroke=330000&strokeWidth=1" />
 
 <p align="center">
   <a href="https://github.com/Shockwav-e">
@@ -10,7 +10,7 @@
   <a href="https://github.com/Shockwav-e"><img src="https://komarev.com/ghpvc/?username=Shockwav-e&label=Profile%20views&color=CC0000&style=flat-square" /></a>
   <img src="https://img.shields.io/github/followers/Shockwav-e?label=Followers&style=flat-square&color=0A0A0A" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Moto-Engineered%20for%20reliability-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Go%20%7C%20Rust%20%7C%20Python-black?style=flat-square" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ const shockwave = {
 }
 ```
 
-- 🔭 Building **TourneyMaster**, **TourNeo** (with Leno — backend/frontend split), and **Dashboard** — real-world tournament platforms
+- 🔭 Building **TourneyMaster**, **TourNeo** (with Leno — backend/frontend split), and **Dashboard** — tournament platforms live
 - 🌱 Exploring **Tauri, Go services, and system-level Rust**
 - ⚡ Loves **low-footprint desktop apps, sharp UI, and clean APIs**
 - 📫 Reach me via **GitHub** — open to collaborations
@@ -67,8 +67,8 @@ const shockwave = {
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </td>
 <td valign="top">
@@ -82,72 +82,18 @@ const shockwave = {
 
 </td>
 </tr>
-<tr>
-<td valign="top">
-
-**Editor**
-<br>
-<img src="https://img.shields.io/badge/VSCodium-2C2C32?style=for-the-badge&logo=vscodium&logoColor=CC0000" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
-</td>
-<td valign="top">
-
-**Extras**
-<br>
-<img src="https://img.shields.io/badge/Clean%20Arch-1A1A1A?style=flat-square" />
-<img src="https://img.shields.io/badge/REST%20APIs-CC0000?style=flat-square" />
-<img src="https://img.shields.io/badge/Realtime-000000?style=flat-square" />
-
-</td>
-</tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Shockwav-e">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shockwav-e&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Shockwav-e">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shockwav-e&layout=compact&theme=radical&hide_border=true&langs_count=7" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Shockwav-e&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shockwav-e&theme=red&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shockwav-e&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
-</p>
-
----
-
 ### 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Shockwav-e/Dorion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shockwav-e&repo=Dorion&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/Shockwav-e/screen-recorder"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shockwav-e&repo=screen-recorder&theme=radical&hide_border=true" /></a>
-</p>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**TourNeo**](https://ggtsonline.netlify.app/tourneo/) | Tournament platform — **Frontend by me, Backend by Leno** | `HTML • CSS • JavaScript` |
 | [**TourneyMaster**](https://tourneymaster.duckdns.org/) | Live brackets, scoring & dashboards | `Go • JS • HTML/CSS` |
 | **Dashboard** | Analytics & control panel for real-time ops | `Go • Python • JS` |
-| [**Dorion**](https://github.com/Shockwav-e/Dorion) | Tiny Discord client — themes, plugins, fast startup | `Rust • Tauri • TypeScript` |
+| [**Dorion**](https://github.com/Shockwav-e/Dorion) | Tiny Discord client — themes, plugins, fast | `Rust • Tauri • TypeScript` |
 
 ---
 
@@ -155,8 +101,9 @@ const shockwave = {
 
 <p align="center">
   <a href="https://github.com/Shockwav-e"><img src="https://img.shields.io/badge/GitHub-Shockwav_e-CC0000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Available%20for%20collab-CC0000?style=flat-square" />
 </p>
 
 <p align="center"><sub>⚡ Let's build something sharp — PRs and ideas always welcome</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:0A0A0A&height=120&section=footer&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D0000,50:1A0000,100:0A0A0A&height=120&section=footer&stroke=330000&strokeWidth=1" />
