@@ -90,7 +90,7 @@ const shockwave = {
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**TourNeo**](https://ggtsonline.netlify.app/tourneo/) | Tournament platform — **Frontend by me, Backend by Leno** | `HTML • CSS • JavaScript` |
+| [**TourNeo**](https://ggtsonline.netlify.app/tourneo/) | Tournament platform — **Frontend by me, Backend by Leno (Python)** | `HTML • CSS • JavaScript • Python` |
 | [**TourneyMaster**](https://tourneymaster.duckdns.org/) | Discord bot — tournaments, brackets & scoring | `JavaScript • MongoDB • SQLite` |
 | [**Dashboard**](https://tourneymaster.duckdns.org/) | Dashboard for TourneyMaster bot | `Go • HTMX • JavaScript • CSS` |
 
